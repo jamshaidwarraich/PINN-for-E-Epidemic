@@ -5,7 +5,7 @@ models the spread of a virus across four compartments: Susceptible (S), Infectio
 The ODE system describes the flow between the compartments using parameters such as infection rate, recovery rate, and natural death rates. The dynamics are defined in the system_ode function.
 
 The PINN model is trained using synthetic data generated from this ODE system using scipy.integrate.odeint.
-### Section 1 – Model Training and Result Generation
+### Model Training and Result Generation
 This section contain the PINN implementation and generates the prediction plots.
 
 ### Physics and Data Loss Code
