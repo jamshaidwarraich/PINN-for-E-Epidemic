@@ -8,8 +8,8 @@ The PINN model is trained using synthetic data generated from this ODE system us
 ### Model Training and Result Generation
 This section contain the PINN implementation and generates the prediction plots.
 
-### Physics and Data Loss Code
-This section gives the plot for physics and data loss.
+### Training and Validation Loss
+This section gives the plot for training and validation loss.
 
 ### Statistical Analysis
 This section plots the comaprison of PINN with ground truth by using different evaluation metrices.
