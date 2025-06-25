@@ -14,4 +14,4 @@ This section gives the plot for physics and data loss.
 ### Statistical Analysis
 This section plots the comaprison of PINN with ground truth by using different evaluation metrices.
 
-The hyperparameters for the training this network are given in the paper.
+The hyperparameters for training this network are given in the paper.
