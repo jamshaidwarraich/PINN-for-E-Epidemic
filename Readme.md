@@ -1,7 +1,4 @@
-
-
-
-
+This project implements a custom Physics-Informed Neural Network (PINN) framework using only TensorFlow and NumPy, targeting a completely different problem domain: the solution of ordinary differential equations (ODEs) governing the spread of an infectious disease. This framework is lightweight, fully customizable, and intended for use in mathematical modeling of epidemiological systems or other dynamic processes described by differential equations.
 
 ### Requirements
 - Python >= 3.7  
